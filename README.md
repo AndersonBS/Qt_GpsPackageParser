@@ -1,9 +1,9 @@
 # Qt_GpsPackageParser
-GPS NMEA Package Parser!
+**GPS NMEA Package Parser!**
 
-NMEA suported sentences: GPGGA, GPGSA, GPGSV, and GPRMC.
+NMEA suported sentences: **GPGGA, GPGSA, GPGSV, and GPRMC**.
 
-Package examples: 
+**Package examples:**
 
 $GPGGA,232803.000,2709.5426,S,05131.4711,W,1,8,0.96,697.8,M,3.1,M,,*62\r\n
 $GPGSA,A,3,03,23,09,22,07,16,01,26,,,,,1.32,0.96,0.90*0A\r\n
